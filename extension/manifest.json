@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Mac Home \u2014 macOS Style New Tab",
+  "version": "1.0.0",
+  "description": "A macOS-style new tab: dock with folders, analog clock, weather and reminders widgets, light and dark mode.",
+  "permissions": [
+    "storage",
+    "identity"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "dist/newtab.html"
+  },
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon.png"
+  }
+}
