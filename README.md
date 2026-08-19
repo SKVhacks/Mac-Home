@@ -2,7 +2,7 @@
 
 A Manifest V3 Chrome extension that replaces your new tab page with a macOS-like desktop: draggable widgets, a glass dock with folders, live wallpapers, and full customization. The same React desktop also runs as a live web demo on the landing page.
 
-![Preview](public/favicon.png)
+![Preview](public/aa.png)
 
 ## Features
 
